@@ -1,0 +1,9 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/clima_mvvm_provider/BuildConfig.java
+ com.example.clima_mvvm_provider.BuildConfig
+io/flutter/plugins/Pigeon.java
+ io.flutter.plugins.Pigeon
+ io.flutter.plugins.Pigeon$Api
+ io.flutter.plugins.Pigeon$ApiCodec
+ io.flutter.plugins.Pigeon$Version
